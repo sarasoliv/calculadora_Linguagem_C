@@ -50,7 +50,7 @@ Durante o desenvolvimento, foram utilizados conceitos fundamentais da linguagem 
 
 Para executar o projeto, é necessário ter:
 
-Dev-C++ instalado.
+**Dev-C++ instalado.**
 
 ## 📖 Sobre o desenvolvimento
 
